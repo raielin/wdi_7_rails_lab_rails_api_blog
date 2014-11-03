@@ -10,9 +10,11 @@ gem 'spring', :group => :development
 
 gem 'pg'
 
-gem 'pry-rails'
+gem 'pry-rails', :group => :development
 
-gem 'pry-byebug'
+gem 'pry-byebug', :group => :development
+
+gem 'active_model_serializers'
 
 
 # To use ActiveModel has_secure_password
