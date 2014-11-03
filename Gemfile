@@ -10,6 +10,9 @@ gem 'spring', :group => :development
 
 gem 'pg'
 
+gem 'pry-rails'
+
+gem 'pry-byebug'
 
 
 # To use ActiveModel has_secure_password
